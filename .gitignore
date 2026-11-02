@@ -1,1 +1,4 @@
 *.dat
+*.keras
+__pycache__/
+.ipynb_checkpoints/
